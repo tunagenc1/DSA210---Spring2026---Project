@@ -1,2 +1,8 @@
 # DSA210---Spring2026---Project
 DSA210 Spring 2026 Project - İrfan Tuna Genç 
+## Project Proposal – The Effect of Weather Conditions on Daily Mood
+This project aims to examine the relationship between daily weather conditions and individual mood. The goal is to understand whether factors such as temperature, weather type, humidity, and time spent outdoors have an effect on how a person feels throughout the day. This topic is chosen because it is easy to implement while still allowing meaningful analysis.
+The dataset will be created by combining publicly available weather data with manually recorded daily mood scores. Weather data such as temperature, humidity, and general weather conditions will be collected from an online source, while mood will be recorded daily on a scale from 1 to 5. Each observation will represent one day and will include variables such as date, temperature, humidity, weather type, time spent outside, and mood score. The dataset is expected to contain around 30 to 45 observations and will be structured with mostly numerical variables and a small number of categorical features.
+
+The analysis will begin with exploratory data analysis to identify patterns and relationships between weather variables and mood. Hypothesis testing will be used to examine questions such as whether mood is higher on sunny days or whether temperature has a significant effect on mood. In the final stage, a simple machine learning model such as linear regression or classification will be applied to predict mood based on weather conditions. This project is manageable, data collection is straightforward, and it allows the application of basic data analysis techniques.
+
